@@ -1,0 +1,54 @@
+body{
+  background-color: yellow;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.title{
+  text-align: center;
+  background-color:blue;
+  height: 45px;
+   color: aliceblue;
+  font-weight: bolder;
+}
+footer{
+  padding: 17px;
+  position:fixed;
+  bottom: 0;
+  color: white;
+  background-color:blue;
+  width: 100%;
+}
+.usercomponts{
+  margin: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap:wrap ;
+  gap: 1px;
+  
+}
+.user-card{
+  border: 1px solid black;
+  width: 220px;
+  background-color: green;
+ 
+ 
+
+}
+
+.Adduser{
+ position: absolute;
+ padding: 4px;
+ top: 10px;
+ left: 0%;
+}
+
+.dash{
+  position: absolute;
+  padding: 4px;
+  top: 10px;
+  left: 7%;
+}

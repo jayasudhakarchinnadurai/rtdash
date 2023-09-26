@@ -1,0 +1,31 @@
+export const data =[
+    {
+     id:"101",
+     name:"sudhakar",
+     batch:"b43wd",
+     email:"sudhakar@gmail.com",
+     exprience:4
+    },
+    {
+        id:"102",
+        name:"siva",
+        batch:"b43wd",
+        email:"siva@gmail.com",
+        exprience:4
+    },
+    {
+        id:"103",
+        name:"logesh",
+        batch:"b43wd",
+        email:"logesh@gmail.com",
+        exprience:4
+    },
+    {
+      id:"104",
+        name:"john",
+        batch:"b43wd",
+        email:"jhon@gmail.com",
+        exprience:4
+    }
+]
+
